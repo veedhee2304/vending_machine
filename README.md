@@ -158,8 +158,3 @@ The ASM diagram illustrates the step-by-step operation of the vending machine.
 - Can include multi-coin validation and real-time coin acceptance.  
 - Possible expansion to handle invalid or incorrect selections gracefully.  
 
----
-
-✅ **Author:** Veedhee Channey  
-✅ **Date:** March 2025  
-✅ **Version:** 1.0
